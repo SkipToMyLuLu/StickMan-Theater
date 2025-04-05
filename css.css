@@ -1,0 +1,26 @@
+/* IDS */
+
+/* 
+
+
+movie1_title
+movie1 */
+
+/* classes: */
+/* main_content */
+
+#title {
+    font-family: 'Helvetica Neue';
+    font-size: 2em;
+    text-align: center;
+}
+
+#subtitle {
+    font-family: 'Arial';
+    font-size: 1.1em;
+}
+
+#intro {
+    font-family: 'SF Pro';
+    font-size: 1em;
+}
