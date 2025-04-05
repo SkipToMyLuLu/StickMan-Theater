@@ -17,10 +17,11 @@ movie1 */
 
 #subtitle {
     font-family: 'Arial';
-    font-size: 1.1em;
+    font-size: 1.3em;
+    text-align: center;
 }
 
 #intro {
-    font-family: 'SF Pro';
+    font-family: 'SF Pro Display';
     font-size: 1em;
 }
