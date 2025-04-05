@@ -19,3 +19,25 @@
     font-size: 1em;
 
 }
+
+#movie1 {
+    size: 1em;
+    align-self: center;
+}
+
+#title {
+    font-family: 'Helvetica Neue';
+    font-size: 2em;
+    text-align: center;
+}
+
+#subtitle {
+    font-family: 'Arial';
+    font-size: 1.1em;
+}
+
+#intro {
+    font-family: 'SF Pro';
+    font-size: 1em;
+
+}
